@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423635887642",
+    "firebase_url": "https://xwards-xplore-app.firebaseio.com",
+    "project_id": "xwards-xplore-app",
+    "storage_bucket": "xwards-xplore-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423635887642:android:4391e788aea390aed5d3a3",
+        "android_client_info": {
+          "package_name": "com.xplorereact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423635887642-9lornd6ul2e4njsq2a86q3h12t01qfd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIpX32ycjQf6XSmTjt3BfX9CfD3RQqSZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423635887642-9lornd6ul2e4njsq2a86q3h12t01qfd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
